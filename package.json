@@ -24,7 +24,7 @@
         "rsvp": "~3.0",
         "soupselect": "~0.2",
         "underscore": "~1.7",
-        "request": "~2.49"
+        "request": "~2.88"
     },
     "devDependencies": {
         "coffeelint": "~1.6"
